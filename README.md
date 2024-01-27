@@ -6,10 +6,14 @@ Make sure all of the dependencies have been downloaded using npm first.
 
 This is what the app looks like:
 
-![home page](/pictures/home_page.png)
+Home page:
+![Home page](/pictures/home_page.png)
 
-![profile page](/pictures/profile_page.png)
+Profile page:
+![Profile page](/pictures/profile_page.png)
 
-![register page](/pictures/register_page.png)
+Register page:
+![Register page](/pictures/register_page.png)
 
-![home page](/pictures/login_page.png)
+Login page:
+![Login page](/pictures/login_page.png)
